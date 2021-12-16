@@ -1,3 +1,4 @@
+#Dieser Code fragt nach der Hauptstadt von Japan. Nach drei Fehlversüchen endet das Programm.
 for i in range (0,3):
     correct = "Tokyo"
 
